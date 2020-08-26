@@ -10,7 +10,7 @@ QuickToast.Short(this,"This is a short Toast");
   
  For Long Toast -
  ```
-QuickToast.Long(this,"This is a short Toast");  
+QuickToast.Long(this,"This is a long Toast");  
 `````
 
 ### How to use this library in your project?
